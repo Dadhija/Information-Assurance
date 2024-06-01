@@ -1,0 +1,1 @@
+The report delves into a specific incident involving self-driving cars, highlighting the risks posed to passengers and system integrity. Drawing upon models like DRIDE, STRIDE, and the Biba model, it offers insights into the incident's causes and proposes preventive measures for future occurrences.
